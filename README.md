@@ -1,2 +1,2 @@
-# Construccion_Inventario
+# GestionInventario
 Construccion - Gestión de Inventario
